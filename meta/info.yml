@@ -14,8 +14,3 @@ parameters:
     description: The microservice short description
     valid-input-description: A short description of the service.
 
-  - name: docker-image-prefix
-    required: true
-    description: the value used for for the docker prefix
-    valid-input-description: a docker prefix identifier without spaces
-
